@@ -1,4 +1,4 @@
-name: Create S3 backend bucket
+name: Create S3 Backend bucket
 on:
   push:
     branches: [ "main" ]
